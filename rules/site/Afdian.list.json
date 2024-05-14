@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "afdian.net",
+        "afdiancdn.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "copilot.microsoft.com",
+        "gateway.bingviz.microsoft.net",
+        "odc.officeapps.live.com",
+        "r.bing.com",
+        "self.events.data.microsoft.com"
+      ],
+      "domain_suffix": [
+        "api.microsoftapp.net",
+        "bing-shopping.microsoft-falcon.io"
+      ]
+    }
+  ]
+}

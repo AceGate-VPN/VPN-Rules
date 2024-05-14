@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "liveperson.com",
+        "liveperson.net",
+        "lpsnmedia.net"
+      ]
+    }
+  ]
+}

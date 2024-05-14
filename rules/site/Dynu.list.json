@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dynu.com",
+        "dynu.net",
+        "freeddns.org"
+      ]
+    }
+  ]
+}

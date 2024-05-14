@@ -1,0 +1,187 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "name": "Google",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/google.png",
+      "path": "rules/site/Google.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/Google.list.json"
+    },
+    {
+      "name": "Twitter",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/twitter.png",
+      "path": "rules/site/Twitter.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/Twitter.list.json"
+    },
+    {
+      "name": "Telegram",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/telegram.png",
+      "path": "rules/site/Telegram.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/Telegram.list.json"
+    },
+    {
+      "name": "Youtube",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/youtube.png",
+      "path": "rules/site/YouTube.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/YouTube.list.json"
+    },
+    {
+      "name": "YoutubeMusic",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/youtube_music.png",
+      "path": "rules/site/YouTubeMusic.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/YouTubeMusic.list.json"
+    },
+    {
+      "name": "Slack",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/slack.png",
+      "path": "rules/site/Slack.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/Slack.list.json"
+    },
+    {
+      "name": "HBO",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/hbo.png",
+      "path": "rules/site/HBO.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/HBO.list.json"
+    },
+    {
+      "name": "HBOAsia",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/hbo.png",
+      "path": "rules/site/HBOAsia.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/HBO.list.json"
+    },
+    {
+      "name": "HBOHK",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/hbo.png",
+      "path": "rules/site/HBOHK.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/HBOHK.list.json"
+    },
+    {
+      "name": "HBOUSA",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/hbo.png",
+      "path": "rules/site/HBOUSA.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/HBOUSA.list.json"
+    },
+    {
+      "name": "Hulu",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/hulu.png",
+      "path": "rules/site/Hulu.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/Hulu.list.json"
+    },
+    {
+      "name": "HuluJP",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/hulu.png",
+      "path": "rules/site/HuluJP.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/HuluJP.list.json"
+    },
+    {
+      "name": "HuluUSA",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/hulu.png",
+      "path": "rules/site/HuluUSA.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/HuluUSA.list.json"
+    },
+    {
+      "name": "Instagram",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/instagram.png",
+      "path": "rules/site/Instagram.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/Instagram.list.json"
+    },
+    {
+      "name": "NetFlix",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/netflix.png",
+      "path": "rules/site/Netflix.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/Netflix.list.json"
+    },
+    {
+      "name": "OpenAI",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/chatgpt.png",
+      "path": "rules/site/OpenAI.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/OpenAI.list.json"
+    },
+    {
+      "name": "Reddit",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/reddit.png",
+      "path": "rules/site/Reddit.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/Reddit.list.json"
+    },
+    {
+      "name": "TikTok",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/tiktok.png",
+      "path": "rules/site/TikTok.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/TikTok.list.json"
+    },
+    {
+      "name": "WhatsApp",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/whatsapp.png",
+      "path": "rules/site/Whatsapp.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/Whatsapp.list.json"
+    },
+    {
+      "name": "TencentVideo",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/tencent-video.png",
+      "path": "rules/site/TencentVideo.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/TencentVieo.list.json"
+    },
+    {
+      "name": "iQIYI",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/iqiyi.png",
+      "path": "rules/site/iQIYI.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/iQIYI.list.json"
+    },
+    {
+      "name": "BiliBili",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/bilibili.png",
+      "path": "rules/site/BiliBili.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/BiliBili.list.json"
+    },
+    {
+      "name": "Youku",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/youku.png",
+      "path": "rules/site/Youku.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/Youku.list.json"
+    },
+    {
+      "name": "DouYin",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/douyin.png",
+      "path": "rules/site/DouYin.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/DouYin.list.json"
+    },
+    {
+      "name": "NetEaseMusic",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/netease-music.png",
+      "path": "rules/site/NetEaseMusic.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/NetEaseMusic.list.json"
+    },
+    {
+      "name": "ChinaMedia",
+      "type": "site",
+      "icon": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/icons/china-media.png",
+      "path": "rules/site/ChinaMedia.list.json",
+      "url": "https://raw.githubusercontent.com/AHASLIDES-PTE-LTD/BatVPN-rules/master/rules/site/ChinaMedia.list.json"
+    }
+  ]
+}

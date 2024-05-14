@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "fetnet.net",
+        "friday.tw"
+      ]
+    }
+  ]
+}

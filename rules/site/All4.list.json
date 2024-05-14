@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "c4assets.com",
+        "channel4.com"
+      ]
+    }
+  ]
+}

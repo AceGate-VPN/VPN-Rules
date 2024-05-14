@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "aixcoder.com",
+        "nnthink.com"
+      ]
+    }
+  ]
+}

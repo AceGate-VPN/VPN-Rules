@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "sky.com",
+        "skygo.co.nz"
+      ]
+    }
+  ]
+}

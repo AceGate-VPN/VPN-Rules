@@ -1,0 +1,9 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "www.google."
+      ]
+    }
+  ]
+}

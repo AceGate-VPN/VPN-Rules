@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "senseagro.cn",
+        "senseagro.com",
+        "senseagro.com.cn"
+      ]
+    }
+  ]
+}
