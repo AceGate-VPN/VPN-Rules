@@ -2,14 +2,7 @@
   "rules": [
     {
       "domain": [
-        "adobeereg.com",
-        "cc-ext-prod-pkgs.s3.amazonaws.com",
-        "crl.versign.net",
-        "ood.opsource.net",
-        "practivate.adobe",
-        "practivate.adobe.ipp",
-        "practivate.adobe.newoa",
-        "practivate.adobe.ntp"
+        "cc-ext-prod-pkgs.s3.amazonaws.com"
       ],
       "domain_suffix": [
         "10xfotolia.com",
@@ -141,7 +134,6 @@
         "tenbyfotolia.com",
         "thawte.com",
         "toutapp.com",
-        "tubemogul.com",
         "typekit.com",
         "typekit.net",
         "verisign.com",

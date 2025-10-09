@@ -1,6 +1,9 @@
 {
   "rules": [
     {
+      "domain": [
+        "scholar.google.com"
+      ],
       "domain_suffix": [
         "1lib.cloud",
         "1lib.domains",
@@ -63,6 +66,7 @@
         "cell.com",
         "clarivate.com",
         "cnki.net",
+        "computer.org",
         "computingreviews.com",
         "cqvip.com",
         "crossref.org",
@@ -88,12 +92,15 @@
         "frontiersin.org",
         "gale.com",
         "galegroup.com",
+        "geoscienceworld.org",
         "ggsrv.com",
         "hindawi.com",
         "hk1lib.org",
         "ic.ac.uk",
         "icevirtuallibrary.com",
         "ieee.org",
+        "ieeecomputer.org",
+        "ieeecomputersociety.org",
         "imf.org",
         "imperial.ac.uk",
         "imperial.insendi.com",

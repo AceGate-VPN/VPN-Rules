@@ -2,7 +2,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "dzen.ru",
         "xn--d1acpjx3f.xn--p1ai",
         "ya.ru",
         "yadi.sk",
@@ -29,8 +28,6 @@
         "yandex.lv",
         "yandex.md",
         "yandex.net",
-        "yandex.org",
-        "yandex.pl",
         "yandex.ru",
         "yandex.st",
         "yandex.sx",
@@ -38,7 +35,6 @@
         "yandex.tm",
         "yandex.ua",
         "yandex.uz",
-        "yandexcloud.net",
         "yastatic.net"
       ],
       "ip_cidr": [

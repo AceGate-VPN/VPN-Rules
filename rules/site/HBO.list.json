@@ -1,9 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "wmff.warnermediacdn.com"
-      ],
       "domain_suffix": [
         "bcbolthboa-a.akamaihd.net",
         "cf-images.ap-southeast-1.prod.boltdns.net",
@@ -35,13 +32,13 @@
         "hbogoasia.tw",
         "hbogoprod-vod.akamaized.net",
         "hbolb.onwardsmg.com",
-        "hbomax-images.warnermediacdn.com",
         "hbomax.com",
         "hbomaxcdn.com",
         "hbomaxdash.s.llnwi.net",
         "hbonow.com",
         "hbounify-prod.evergent.com",
         "manifest.prod.boltdns.net",
+        "max.com",
         "maxgo.com",
         "now-ashare.com",
         "now-tv.com",
@@ -50,6 +47,7 @@
         "nowe.com",
         "nowe.hk",
         "players.brightcove.net",
+        "warnermediacdn.com",
         "youboranqs01.com"
       ]
     },

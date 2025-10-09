@@ -1,21 +1,10 @@
 {
   "rules": [
     {
-      "domain": [
-        "lgelectronics.122.2o7.net"
-      ],
       "domain_suffix": [
         "dacom.co.kr",
         "kidc.net",
         "lg.com",
-        "lgappstv.com",
-        "lge.co.kr",
-        "lge.com",
-        "lgecareers.com",
-        "lghvac.com",
-        "lghvacstory.com",
-        "lgrecyclingprogram.com",
-        "lgsalesportal.com",
         "uplus.co.kr"
       ],
       "ip_cidr": [

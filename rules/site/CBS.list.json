@@ -1,12 +1,8 @@
 {
   "rules": [
     {
-      "domain": [
-        "link.theplatform.com"
-      ],
       "domain_suffix": [
         "amlg.io",
-        "cbs",
         "cbs.com",
         "cbsaavideo.com",
         "cbscorporation.com",
@@ -33,6 +29,7 @@
         "paramount.com",
         "paramountplus.com",
         "pluto.tv",
+        "plutotv.net",
         "pplusstatic.com",
         "showtime.com",
         "viacbs.com",

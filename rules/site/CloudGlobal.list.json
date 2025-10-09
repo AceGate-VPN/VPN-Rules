@@ -20,13 +20,7 @@
         "streamcherry.com",
         "thumb.oloadcdn.net",
         "vidcpm.com",
-        "vkcache.com",
-        "cht.com.tw",
-        "chtf.org.tw",
-        "emome.net",
-        "gtlsca.nat.gov.tw",
-        "hinet.net",
-        "xuite.net"
+        "vkcache.com"
       ],
       "ip_cidr": [
         "1.160.0.0/12",

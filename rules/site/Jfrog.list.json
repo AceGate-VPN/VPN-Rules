@@ -1,9 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "d29vzk4ow07wi7.cloudfront.net"
-      ],
       "domain_suffix": [
         "bintray.com",
         "jfrog.com",

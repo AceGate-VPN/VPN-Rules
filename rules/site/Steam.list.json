@@ -1,12 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "f3b7q2p3.ssl.hwcdn.net",
-        "steammobile.akamaized.net",
-        "steampipe-kr.akamaized.net",
-        "steampipe-partner.akamaized.net"
-      ],
       "domain_suffix": [
         "cdn-ali.content.steamchina.com",
         "cdn-qc.content.steamchina.com",
@@ -16,6 +10,7 @@
         "dl.steam.ksyna.com",
         "dota2.wmsj.cn",
         "edge.steam-dns.top.comcast.net",
+        "f3b7q2p3.ssl.hwcdn.net",
         "fanatical.com",
         "humblebundle.com",
         "playartifact.com",
@@ -33,6 +28,7 @@
         "steam.eca.qtlglb.com",
         "steam.naeu.qtlglb.com",
         "steam.ru.qtlglb.com",
+        "steam.tv",
         "steambroadcast.akamaized.net",
         "steamcdn-a.akamaihd.net",
         "steamcommunity-a.akamaihd.net",
@@ -40,6 +36,9 @@
         "steamcontent.tnkjmec.com",
         "steamdeck.com",
         "steamgames.com",
+        "steammobile.akamaized.net",
+        "steampipe-kr.akamaized.net",
+        "steampipe-partner.akamaized.net",
         "steampipe.akamaized.net",
         "steampowered.com",
         "steampowered.com.8686c.com",

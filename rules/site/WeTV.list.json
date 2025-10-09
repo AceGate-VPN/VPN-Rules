@@ -1,6 +1,9 @@
 {
   "rules": [
     {
+      "domain": [
+        "wetv.qq.com"
+      ],
       "domain_suffix": [
         "iflix-images.akamaized.net",
         "iflix.com",

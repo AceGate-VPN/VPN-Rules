@@ -1,6 +1,9 @@
 {
   "rules": [
     {
+      "domain": [
+        "wmff.warnermediacdn.com"
+      ],
       "domain_suffix": [
         "hboasia.com",
         "hboasia1-i.akamaihd.net",
@@ -19,6 +22,7 @@
         "hbogoasia.sg",
         "hbogoasia.tw",
         "hbogoprod-vod.akamaized.net",
+        "hbomaxcdn.com",
         "now-ashare.com",
         "now-tv.com",
         "now.com.hk",

@@ -1,9 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "dlgarenanow-a.akamaihd.net"
-      ],
       "domain_suffix": [
         "avatargarenanow-a.akamaihd.net",
         "cdngarenanow-a.akamaihd.net",

@@ -2,7 +2,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "alphassl.com",
         "globalsign-media.com",
         "globalsign.be",
         "globalsign.ch",

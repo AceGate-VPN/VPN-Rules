@@ -2,9 +2,13 @@
   "rules": [
     {
       "domain": [
-        "emby.enjoyit.eu.org"
+        "emby.enjoyit.eu.org",
+        "emby.lcloud.wiki",
+        "notnetflix.cos.cat"
       ],
       "domain_suffix": [
+        "123456.al",
+        "285286.xyz",
         "agahk1.jmsooo.com",
         "agajp1.jmsooo.com",
         "agasg1.jmsooo.com",
@@ -29,16 +33,25 @@
         "emby.wtf",
         "emby.xeton.dev",
         "emby.ytoo.li",
+        "embymv.tk",
+        "embyplus.org",
         "embyserver.ga",
         "hinet.jmsooo.com",
+        "imetyou.top",
+        "jellyfin.asia",
         "jellyfin.xeton.dev",
         "line.emby.men",
         "mickeycloud.com",
         "movie.xeton.dev",
         "ntt1.jmsooo.com",
+        "ohhhh.org",
+        "peachmv.me",
+        "pilipiliultra.com",
         "plusmedia.site",
+        "poloemby.xyz",
         "pornemby.club",
-        "servers.xeton.dev"
+        "servers.xeton.dev",
+        "xmsl.org"
       ],
       "domain_keyword": [
         "emby.wtf",

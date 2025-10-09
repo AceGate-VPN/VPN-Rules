@@ -1,14 +1,6 @@
 {
   "rules": [
     {
-      "domain_suffix": [
-        "cht.com.tw",
-        "chtf.org.tw",
-        "emome.net",
-        "gtlsca.nat.gov.tw",
-        "hinet.net",
-        "xuite.net"
-      ],
       "ip_cidr": [
         "1.160.0.0/12",
         "1.34.0.0/15",
