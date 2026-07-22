@@ -4,14 +4,13 @@
       "domain": [
         "asusrouter.com",
         "instant.arubanetworks.com",
+        "local.adguard.org",
         "oasisauth.h3c.com",
         "router.asus.com",
         "setmeup.arubanetworks.com",
         "www.asusrouter.com"
       ],
       "domain_suffix": [
-        "0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa",
-        "0.in-addr.arpa",
         "1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa",
         "10.in-addr.arpa",
         "100.100.in-addr.arpa",
@@ -110,6 +109,7 @@
         "d.f.ip6.arpa",
         "hiwifi.com",
         "home.arpa",
+        "kis.v2.scr.kaspersky-labs.com",
         "leike.cc",
         "localhost.ptlogin2.qq.com",
         "localhost.sec.qq.com",
@@ -121,7 +121,6 @@
         "router.ctc",
         "routerlogin.com",
         "tendawifi.com",
-        "test.steampowered.com",
         "tplinkwifi.net",
         "tplogin.cn",
         "ts.net",

@@ -1,0 +1,33 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "openapi-quote.longbridge.cn",
+        "openapi-quote.longbridge.com",
+        "openapi-trade.longbridge.cn",
+        "openapi-trade.longbridge.com",
+        "openapi.longbridge.cn",
+        "openapi.longbridge.com",
+        "quote.longbridge.global",
+        "trade.longportapp.com"
+      ],
+      "domain_suffix": [
+        "api-gl.lbkrs.com",
+        "api.lbkrs.com",
+        "lbctrl.com",
+        "lbkrs.com",
+        "longbridge.app",
+        "longbridge.cloud",
+        "longbridge.com",
+        "longbridge.global",
+        "longbridge.hk",
+        "longbridge.sg",
+        "longbridgeapp.com",
+        "longbridgehk.com",
+        "longportapp.cn",
+        "longportapp.com",
+        "wbrks.com"
+      ]
+    }
+  ]
+}

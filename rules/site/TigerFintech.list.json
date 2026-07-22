@@ -3,13 +3,23 @@
     {
       "domain_suffix": [
         "itiger.com",
+        "itigerup.com",
         "laohu8.com",
         "tigerbbs.cn",
         "tigerbbs.com",
+        "tigerbrokers.com",
+        "tigerbrokers.net",
+        "tigerbrokers.nz",
         "tigerfintech.com",
+        "tradeup.com",
         "xiaohu8.com",
         "zhijianfengyi.cn",
         "zhijianfengyi.com"
+      ]
+    },
+    {
+      "process_name": [
+        "Tiger Trade"
       ]
     }
   ]

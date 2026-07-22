@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "schwab.co.uk",
+        "schwab.com",
+        "schwab.com.cn",
+        "schwab.com.hk"
+      ]
+    }
+  ]
+}
