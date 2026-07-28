@@ -6,7 +6,13 @@
       ],
       "domain_suffix": [
         "anthropic.com",
-        "claude.ai"
+        "claude.ai",
+        "claude.com",
+        "claudemcpclient.com",
+        "claudemcpcontent.com",
+        "claudeusercontent.com",
+        "anthropic.auth0.com",
+        "anthropic-com.ghost.io"
       ]
     }
   ]
