@@ -1,0 +1,71 @@
+name: Sync broker rules
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-broker-rules
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: master
+
+      - name: Checkout generated rule source
+        uses: actions/checkout@v4
+        with:
+          repository: OyaTechnology/AceVPN-Rules
+          ref: master
+          path: .sync/source
+          persist-credentials: false
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Sync and validate broker rules
+        run: node scripts/sync-broker-rules.mjs .sync/source
+
+      - name: Commit synchronized rules
+        shell: bash
+        run: |
+          files=(
+            rules/site/Futu.list.json
+            rules/site/Longbridge.list.json
+            rules/site/TigerFintech.list.json
+            rules/site/Schwab.list.json
+            rules/site/HKBroker.list.json
+          )
+
+          if [[ -z "$(git status --porcelain -- "${files[@]}")" ]]; then
+            echo "Broker rules are already up to date."
+            exit 0
+          fi
+
+          git add -- "${files[@]}"
+          git diff --cached --check
+
+          unexpected="$(git diff --cached --name-only | grep -Ev '^(rules/site/(Futu|Longbridge|TigerFintech|Schwab|HKBroker)\.list\.json)$' || true)"
+          if [[ -n "$unexpected" ]]; then
+            echo "Unexpected staged files:"
+            echo "$unexpected"
+            exit 1
+          fi
+
+          source_commit="$(git -C .sync/source rev-parse --short=12 HEAD)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: sync broker rules (${source_commit})"
+          git push origin HEAD:master
